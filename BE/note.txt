@@ -1,0 +1,2 @@
+cài môi trường vps:
+nodejs, mariadb, nginx
